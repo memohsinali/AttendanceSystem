@@ -1,0 +1,9 @@
+Id  Name        SupervisorID
+1   Mohsin	100
+2   Ali		100
+3   Ahmed	200
+4   Ashir	100
+5   Waiz	200
+6   Laiba	200
+7   Anusha	200
+8   Maira	100
